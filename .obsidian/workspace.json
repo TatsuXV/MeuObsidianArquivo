@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "b3269f5a917777dd",
+        "id": "52d530f6d48ee3fb",
         "type": "tabs",
         "children": [
           {
-            "id": "be71428cd3a4242d",
+            "id": "c737d3989707ab2d",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "OOP/Module.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Nova aba"
+              "title": "Module"
             }
           }
         ]
@@ -37,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "byCreatedTimeReverse",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Explorador de arquivos"
@@ -179,8 +185,22 @@
       "bases:Criar nova base": false
     }
   },
-  "active": "be71428cd3a4242d",
+  "active": "b5b6f1cbedcab71a",
   "lastOpenFiles": [
+    "OOP/Module.md",
+    "OOP/Annotation.md",
+    "OOP/Pass by value.md",
+    "OOP/Initializer Block.md",
+    "OOP/Package.md",
+    "OOP/Method Chaining.md",
+    "OOP/Object Lifecycle.md",
+    "OOP/Final.md",
+    "OOP/Enum.md",
+    "OOP/Record.md",
+    "OOP/Interface.md",
+    "OOP/Static vs Dynamic Binding.md",
+    "Fundamentos/Sintaxe.md",
+    "OOP/Lambda Expression.md",
     "OOP/Overloading e Overriding.md",
     "OOP/Encapsulamento.md",
     "OOP/Abstração.md",
@@ -194,14 +214,6 @@
     "Fundamentos/Operações matemáticas.md",
     "Fundamentos/Ciclo de vida.md",
     "Fundamentos/String.md",
-    "Fundamentos/Type casting.md",
-    "Fundamentos/Escopo.md",
-    "Fundamentos/Loops.md",
-    "Fundamentos/Array.md",
-    "Fundamentos/Condicionais.md",
-    "Fundamentos/Tipo de dados.md",
-    "Fundamentos/Sintaxe.md",
-    "Fundamentos.md",
     "Classes e Objetos",
     "Fundamentos"
   ]
