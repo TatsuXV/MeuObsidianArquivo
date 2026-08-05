@@ -1,0 +1,5 @@
+- [ ] [[Functional Interface]]
+- [ ] [[Lambda Expressions]] (revisão aplicada)
+- [ ] [[High Order Functions]]
+- [ ] [[Functional Composition]]
+- [ ] [[Stream API]]

@@ -1,0 +1,3 @@
+- [ ] [[JDBC (Java Database Connectivity)]] — entender o que roda por baixo antes de esconder atrás de ORM
+- [ ] [[Spring Data JPA]] — o que toda vaga espera saber
+- [ ] [[Hibernate]] — não precisa de sessão separada funda; entenda como o Spring Data JPA usa ele por baixo dos panos
